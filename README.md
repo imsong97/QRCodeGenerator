@@ -5,4 +5,4 @@
 
 라이브러리: https://github.com/davidshimjs/qrcodejs
 <br>
-<img src="https://user-images.githubusercontent.com/56987664/102567354-b66a9b00-4124-11eb-84a5-835a92e90ef9.png" style="width:50%">
+<img src="https://user-images.githubusercontent.com/56987664/102567354-b66a9b00-4124-11eb-84a5-835a92e90ef9.png" style="width:50%;">
