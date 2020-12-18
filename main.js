@@ -6,7 +6,7 @@ function onClick(){
     
     const id = document.getElementById("id").value;
     const serialNumber = document.getElementById("serialNumber").value;
-    const str = {userId:id, SerialNumber:serialNumber, date};
+    const obj = {userId:id, SerialNumber:serialNumber, date};
 
-    qrcode.makeCode(JSON.stringify(str));
+    qrcode.makeCode(JSON.stringify(obj));
 }
